@@ -1,6 +1,6 @@
 import discord
 client = discord.Client()
-token = 'NTAwNDI5NjI1NzQzMTE0Mjgy.DqKvlQ.NGhVWALQt8wHAUiz5-FJJRgowPE'
+token = 'NTAwNDI5NjI1NzQzMTE0Mjgy.DqKxwQ.PV8lauRTU47EhpBTZ13WfE9Ueyc'
 
 class MasterMind:
 
